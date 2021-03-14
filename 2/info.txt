@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Marta_Italic
+font link: https://www.behance.net/gallery/7434601/Marta-Font
+font author: Michael Chereda
+font author site: https://www.behance.net/mchereda
+
+
+icon designer: BomSymbols
+icon designer link: /korawan_m
+        
+
+fontColor: {"gradient-0":"#797979","gradient-1":"#928569"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#797979","gradient-1":"#928569"}
+
+      
